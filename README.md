@@ -2,7 +2,7 @@
 
 <!-- # This Profile is currently under progress.... -->
 
-**I am an Engineering Undergrad, and live on coffee, and a whole lot of sugar.**
+**I am an Engineering Undergrad. I live on coffee, and a whole lot of sugar.**
 
 
 
