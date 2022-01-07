@@ -2,7 +2,11 @@
 
 <!-- # This Profile is currently under progress.... -->
 
-**I am an Engineering Undergrad. I live on coffee, and a whole lot of sugar.**
+**I am an Engineering Undergrad. I live on coffee, and a whole lot of sugar. I never stop learning.**
+
+<br />
+
+**Looking for ways to create tools in every discipline.**
 ------------------------------------------------------------------------------
 
 
