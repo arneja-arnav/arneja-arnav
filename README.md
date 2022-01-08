@@ -2,24 +2,18 @@
 
 <!-- # This Profile is currently under progress.... -->
 
-<p>I am an Engineering Undergrad. I live on coffee, and a whole lot of sugar. I never stop learning.
+<p>I am an Engineering Undergrad. I live on coffee, and a whole lot of sugar. 
+I never stop learning. I am a coder at heart, and improving the open source environment has been my recent endeavour. I am commited to developing free and accessible software in a variety of proffessions, be it data-science, AI, Robotics, Automation, or Web-development.
 
-**Looking for ways to create tools in every discipline.**</p>
+**Looking for ways to create tools in every discipline. Open-Source Software is just one of them.**</p>
 
+## Some stuff about me:
 
-
-
-<!--
-**arneja-arnav/arneja-arnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a landing page for myself
+- 🌱 I’m currently learning React.JS, Three.js and ML
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
