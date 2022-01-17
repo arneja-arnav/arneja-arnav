@@ -57,7 +57,6 @@ I never stop learning. I am a coder at heart, and improving the open source envi
 - 🔭 I’m currently working on **Web development**
 - 🌱 I’m currently learning a lot of things :)
 - 👯 I’m looking to collaborate on any Open-Source Project
-- 🤔 I’m looking for help with 
 - 💬 Ask me just about anything
 - 😄 Pronouns: He/Him
 
