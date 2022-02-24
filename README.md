@@ -74,7 +74,7 @@ I never stop learning. I am a coder at heart, and improving the open source envi
 ------------
 
 ## Some Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arneja-arnav)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/></a><br>
